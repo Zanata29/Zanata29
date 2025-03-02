@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Data Analytics.
+- 🔭 I’m currently working on Credit Recuperation.
 - 🌱 I’m currently learning Big Data.
 - 👯 I’m looking to collaborate on Rigorous analysis.
 - 💬 Ask me about Studies, Jobs and Books to read.
