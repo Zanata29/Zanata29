@@ -1,6 +1,23 @@
-## Hi there 👋
+🔭 **Atualmente estou trabalhando em:**  
+Recuperação de Crédito.
 
-- 🔭 I’m currently working on Credit Recuperation.
-- 🌱 I’m currently learning Big Data and Data Analytics.
-- 👯 I’m looking to collaborate on Rigorous analysis.
-- 📫 How to reach me: gabriel_zanata@yahoo.com.br
+🌱 **Atualmente estou aprendendo:**  
+Big Data e Análise de Dados.
+
+👯 **Estou procurando colaborar em:**  
+Análises rigorosas e projetos relacionados a dados.
+
+📫 **Como entrar em contato comigo:**  
+gabriel_zanata@yahoo.com.br
+
+💻 **Habilidades:**  
+- Recuperação de Crédito  
+- Big Data  
+- Análise de Dados  
+- Insights Criativos
+
+✨ **Interesses:**  
+- Ciência de Dados  
+- Inteligência Artificial   
+- Machine Learning
+- Cripto
