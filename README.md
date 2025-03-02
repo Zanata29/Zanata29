@@ -9,6 +9,7 @@ Análises rigorosas e projetos relacionados a dados.
 
 📫 **Como entrar em contato comigo:**  
 gabriel_zanata@yahoo.com.br
+
 https://www.linkedin.com/in/gabriel-zanata-70b49a34b/
 
 💻 **Habilidades:**  
